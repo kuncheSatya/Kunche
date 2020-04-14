@@ -88,6 +88,7 @@
     <Compile Include="OrderClass.cs" />
     <Compile Include="TestAutomationScripts\AutoTests.cs" />
     <Compile Include="TestClass.cs" />
+    <Compile Include="Test\Class1.cs" />
     <Compile Include="Utilities\Browserutility.cs" />
     <Compile Include="WebPageObject\GoogleSearch.cs" />
     <Compile Include="WebPageObject\SearchResults.cs" />
